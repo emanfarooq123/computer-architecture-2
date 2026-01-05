@@ -1,0 +1,12 @@
+REFERRAL LETTER
+Referral ID: R004
+Date: 2025-09-11 | Urgency: Routine
+
+Patient: Christopher Taylor (P009)
+DOB: 1979-10-05 | NHS: 9012345678
+Postcode: B6 9II
+
+Reason: Chronic knee pain
+Clinical summary: 44-year-old male with 2-year history of right knee pain affecting mobility. X-ray shows mild degenerative changes.
+Requested investigations: MRI Knee|Orthopaedic assessment
+Status: In Progress

@@ -1,0 +1,10 @@
+PRESCRIPTION
+Prescription ID: RX007
+Patient: Elizabeth Anderson (P010)
+Medication: Insulin Glargine
+Dosage: 100units/ml
+Frequency: Once daily
+Duration: 28 days
+Instructions: Inject at same time daily
+Pharmacy: Boots Pharmacy Birmingham
+Status: Issued
